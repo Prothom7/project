@@ -1,0 +1,329 @@
+
+_____________________________________________________________________________________________________________________
+
+_____________________________Welcome to Library System !!!_______________________________________________
+(a) Login as a User
+(b) Login as a Admin
+a
+State your User name:
+Azfar
+State Your Password:
+101
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+No Books have been checked out
+What do you want to do?
+(a)Search Books
+(b)Borrow Books
+(c)Return Books
+(d)Renew Books
+(e)Display Profile
+a
+Enter book name, author name or genre name
+Fiction
+
+
+Book name: Harry_Potter     Author Name: JK_Rowling
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Game_of_thrones     Author Name: GRR_Martin
+Copies: 10       Book Status: A
+
+
+
+
+Book name: Fault_In_Our_Stars     Author Name: John_Green
+Copies: 5       Book Status: A
+
+
+
+
+Book name: Abundance     Author Name: John_Green
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Logic_Design     Author Name: Morris_Mano
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Harry_Potter5     Author Name: JK_Rowling
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Harry_Potter7     Author Name: JK_Rowling
+Copies: 7       Book Status: A
+
+
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+b
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+No Books have been checked out
+What do you want to do?
+(a)Search Books
+(b)Borrow Books
+(c)Return Books
+(d)Renew Books
+(e)Display Profile
+b
+Enter book name
+Harry_Potter
+book borrowed
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+b
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+Book name: Harry_Potter     Author Name: JK_Rowling
+Copies: 6       Book Status: A
+
+
+Borrowed: 6.8.2023
+Return Date: 13.8.2023
+What do you want to do?
+(a)Search Books
+(b)Borrow Books
+(c)Return Books
+(d)Renew Books
+(e)Display Profile
+d
+The name of the book to be renew
+1. Book 1
+2. Book 2
+3. Book 3
+1
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+b
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+Book name: Harry_Potter     Author Name: JK_Rowling
+Copies: 6       Book Status: A
+
+
+Borrowed: 6.8.2023
+Return Date: 20.8.2023
+What do you want to do?
+(a)Search Books
+(b)Borrow Books
+(c)Return Books
+(d)Renew Books
+(e)Display Profile
+e
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+Book name: Harry_Potter     Author Name: JK_Rowling
+Copies: 6       Book Status: A
+
+
+Borrowed: 6.8.2023
+Return Date: 20.8.2023
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+b
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+Book name: Harry_Potter     Author Name: JK_Rowling
+Copies: 6       Book Status: A
+
+
+Borrowed: 6.8.2023
+Return Date: 20.8.2023
+What do you want to do?
+(a)Search Books
+(b)Borrow Books
+(c)Return Books
+(d)Renew Books
+(e)Display Profile
+c
+The name of the book to be returned
+1. Book 1
+2. Book 2
+3. Book 3
+1
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+b
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+No Books have been checked out
+What do you want to do?
+(a)Search Books
+(b)Borrow Books
+(c)Return Books
+(d)Renew Books
+(e)Display Profile
+e
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+No Books have been checked out
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+c
+
+_____________________________________________________________________________________________________________________
+
+_____________________________Welcome to Library System !!!_______________________________________________
+(a) Login as a User
+(b) Login as a Admin
+b
+State your Admin name:
+Prothom
+State Your Password:
+041
+Login Successful
+What do you want to do?
+(a)Display All Books
+(b)Display All user
+a
+
+
+Book name: Harry_Potter     Author Name: JK_Rowling
+Copies: 6       Book Status: A
+
+
+
+
+Book name: Lord_of_Ring     Author Name: JKK_Tolkien
+Copies: 3       Book Status: N
+
+
+
+
+Book name: Game_of_thrones     Author Name: GRR_Martin
+Copies: 10       Book Status: A
+
+
+
+
+Book name: Old_Man_And_The_Sea     Author Name: Earnest_Hemmingway
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Fault_In_Our_Stars     Author Name: John_Green
+Copies: 5       Book Status: A
+
+
+
+
+Book name: Abundance     Author Name: John_Green
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Logic_Design     Author Name: Morris_Mano
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Harry_Potter5     Author Name: JK_Rowling
+Copies: 7       Book Status: A
+
+
+
+
+Book name: Harry_Potter7     Author Name: JK_Rowling
+Copies: 7       Book Status: A
+
+
+
+
+Book name: C++     Author Name: E.Balagurushamy
+Copies: 7       Book Status: A
+
+
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+b
+Login Successful
+What do you want to do?
+(a)Display All Books
+(b)Display All user
+b
+
+
+User No: 121     User name: Antu
+fine: 0
+
+No Books have been checked out
+
+
+User No: 122     User name: Azfar
+fine: 0
+
+No Books have been checked out
+
+
+User No: 123     User name: Nabil
+fine: 0
+
+No Books have been checked out
+
+
+User No: 124     User name: Sadia
+fine: 0
+
+No Books have been checked out
+What do you want to do?
+(a)Login with new account
+(b)Go to Options
+(c)Log out
+c
+
+_____________________________________________________________________________________________________________________
+
+_____________________________Welcome to Library System !!!_______________________________________________
+(a) Login as a User
+(b) Login as a Admin
